@@ -8,5 +8,5 @@
     <Steps_to_reproduce_3>3. Click 'Cookies Settings' button in the footer</Steps_to_reproduce_3>
     <Steps_to_reproduce_4>4. Scroll down</Steps_to_reproduce_4>
     <Steps_to_reproduce_5>5. Pay attention to the two switche</Steps_to_reproduce_5>
-    <Actual result>Switcher's center exceeds the boundaries in the Cookies Settings block in the footer</Actual result>
-    <Expected result>Switcher's center is in the boundaries in the Cookies Settings block in the foot</Expected result>
+    <Actual_result>Switcher's center exceeds the boundaries in the Cookies Settings block in the footer</Actual_result>
+    <Expected_result>Switcher's center is in the boundaries in the Cookies Settings block in the foot</Expected_result>
