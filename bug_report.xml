@@ -1,1 +1,12 @@
-
+    <id>1</id>
+    <Summary>Switcher's center exceeds the boundaries in the Cookies Settings block in the footer</Summary>
+    <Priority>Medium</Priority>
+    <Severity>Minor</Severity>
+    <Environment>Win 10 Pro Chrome 109</Environment>
+    <Steps to reproduce 1>1. Navigate to Capital.com</Steps to reproduce1>                          
+    <Steps to reproduce 2>"2. Change language to AR</Steps to reproduce 2>
+    <Steps to reproduce 3>3. Click 'Cookies Settings' button in the footer"</Steps to reproduce 3>
+    <Steps to reproduce 4>"4. Scroll down"</Steps to reproduce 4>
+    <Steps to reproduce 5>5. Pay attention to the two switche"</Steps to reproduce 5>
+    <Actual result>Switcher's center exceeds the boundaries in the Cookies Settings block in the footer</Actual result>
+    <Expected result>Switcher's center is in the boundaries in the Cookies Settings block in the foot</Expected result>
